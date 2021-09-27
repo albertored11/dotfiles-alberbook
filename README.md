@@ -1,3 +1,11 @@
+**IMPORTANT:** this repo is no longer maintained. Now I have my dotfiles for both my notebook and my desktop in the same repo, but in different branches.
+
+You can find these dotfiles up to date here:
+
+https://github.com/albertored11/dotfiles/tree/book
+
+---
+
 # dotfiles-alberbook
 
 ## summary
